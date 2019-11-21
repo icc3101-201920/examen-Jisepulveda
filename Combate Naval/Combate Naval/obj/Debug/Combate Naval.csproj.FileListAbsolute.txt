@@ -1,0 +1,7 @@
+C:\Users\Ing\Desktop\examen-Jisepulveda\Combate Naval\Combate Naval\obj\Debug\Combate Naval.csprojAssemblyReference.cache
+C:\Users\Ing\Desktop\examen-Jisepulveda\Combate Naval\Combate Naval\obj\Debug\Combate Naval.csproj.CoreCompileInputs.cache
+C:\Users\Ing\Desktop\examen-Jisepulveda\Combate Naval\Combate Naval\bin\Debug\Combate Naval.exe.config
+C:\Users\Ing\Desktop\examen-Jisepulveda\Combate Naval\Combate Naval\bin\Debug\Combate Naval.exe
+C:\Users\Ing\Desktop\examen-Jisepulveda\Combate Naval\Combate Naval\bin\Debug\Combate Naval.pdb
+C:\Users\Ing\Desktop\examen-Jisepulveda\Combate Naval\Combate Naval\obj\Debug\Combate Naval.exe
+C:\Users\Ing\Desktop\examen-Jisepulveda\Combate Naval\Combate Naval\obj\Debug\Combate Naval.pdb
